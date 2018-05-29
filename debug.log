@@ -1,0 +1,8 @@
+[0528/034056.090:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0528/034209.885:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0529/012457.729:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0529/014249.518:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0529/061620.530:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0529/074750.887:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0529/235450.414:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
+[0530/000340.210:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Accès refusé. (0x5)
